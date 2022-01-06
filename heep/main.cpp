@@ -1,4 +1,4 @@
-//  heap with mustafa saad.
+
 #include <iostream>
 #include "heep.h"
 using namespace std;
