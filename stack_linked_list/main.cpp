@@ -1,4 +1,4 @@
-//----------------stack by linked list-----with hardcode---------------
+
 #include <iostream>
 using namespace std;
 class stack
