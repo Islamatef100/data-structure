@@ -1,4 +1,4 @@
-// -----------------linked list whith HARD CODE-----------------------
+
 #include <iostream>
 using namespace std;
 class linked
