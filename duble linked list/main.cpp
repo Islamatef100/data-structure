@@ -1,4 +1,4 @@
-//---------------------doublly linked list with hard code----------------------------------
+
 #include<iostream>
 using namespace std;
 class dubbly_linked_lits
