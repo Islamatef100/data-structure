@@ -91,8 +91,7 @@ int main()
     w.push(7);
     w.show();
 }
-// this algorithm is soo good and i loved it
-// of faculty
+// this algorithm is soo good 
 /*
  #include <iostream>
  using namespace std;
